@@ -5,6 +5,7 @@ body {
 
 ol, ul {
   padding-left: 30px;
+  list-style-type: none;
 }
 
 .board-row:after {
